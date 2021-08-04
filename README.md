@@ -2,7 +2,7 @@
 
 ## I'm an Engineer that loves to learn new things especially if I can code them!
 
-- 🔭 I’m currently working on my Computer Science Degree on [Open Source Society University](https://github.com/ossu/computer-science)
+- 🔭 I’m currently working on my self-taught education in Computer Science on [Open Source Society University](https://github.com/ossu/computer-science)
 - 🌱 I’m currently learning about web development.
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love to play Acoustic Guitar
