@@ -1,6 +1,6 @@
 ### Hi there, I'm Raphael. 👋
 
-## I'm an Engineer that loves to learn new things specially if i can code them.
+## I'm an Engineer that loves to learn new things especially if i can code them.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning about web development.
