@@ -3,7 +3,7 @@
 ## I'm an Engineer that loves to learn new things especially if i can code them.
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning about web development.
+- 🌱 I’m currently learning about web development using Python.
 - ⚡ Fun fact: I love to play Acoustic Guitar
 
 ### Languages and Tools:
