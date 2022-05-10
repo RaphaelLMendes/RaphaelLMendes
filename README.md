@@ -3,7 +3,7 @@
 ## I'm a Software Developer that loves to learn new things especially if I can code them!
 
 - 🔭 I’m currently working on my self-taught education in Computer Science on Open Source Society University [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science) 
-- 🌱 I’m currently learning about fullstack web development using Django's Rest Framework and VueJS.
+- 🌱 I’m currently learning about CI/CD in web deployment using Docker and Kubernetes.
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm a civil engineer turned developer, and already on my way to a second self-taught education in CS!
 
